@@ -61,6 +61,7 @@ fix-raw-serial-device
 disable-blktap
 atapi-pt-exclusive-access
 intel-hda
+intel-hda-disable-audio-recording
 cdrom-fix-cdrom-media-change-detection.patch
 lpc
 applesmc
